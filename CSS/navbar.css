@@ -1,0 +1,30 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    height: 15vw;
+    max-height: 150px;
+    overflow: hidden;
+  
+}
+
+li {
+    float: right;
+    
+}
+
+li a {
+    display: block;
+    text-align: center;
+    padding: 0;
+    text-decoration: none;
+    color: black;  
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    line-height: 80px;
+    margin-left: 50px;
+
+}
+
+li a:hover {
+}
